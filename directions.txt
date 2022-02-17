@@ -1,0 +1,4 @@
+This is a text file to be used for Project 1.
+This is a second line of the text file.
+Changed on Tuesday. Techincally, Wednesday has started.
+
